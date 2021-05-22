@@ -7,6 +7,6 @@ Frontend : HTML, CSS, Plain Javascript.
 
 Backend : PHP.
 
-Also, this webapp is also hosted at http://rangenpassword2021ani.atwebpages.com/
+Also, this webapp is also hosted at http://rangenpassword2021ani.atwebpages.com/ (*)
 
-I know it is not a HTTPS site because it is free hosted site on AwardSpace & AwardSpace (hosting company) don't allow HTTPS hosting on their free service. 
+*I know it is not a HTTPS site because it is free hosted site on AwardSpace & they don't allow HTTPS hosting in their free service. 
